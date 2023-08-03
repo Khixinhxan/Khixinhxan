@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="centre" height="250" width="375" alt="GIF" src="https://media.giphy.com/media/jeCSe7Qqc7NwKUzxH7/giphy.gif" />
+<img align="centre" height="250" width="375" alt="GIF" src="https://media.giphy.com/media/jeCSe7Qqc7NwKUzxH7/giphy.gif"/>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm [**Dang**](https://www.linkedin.com/in/hoaidangnguyen97/) and welcome to my GitHub profile:
 
