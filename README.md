@@ -9,7 +9,7 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm [**Dang**](https://www.linkedin.com/in/ndleah/) and welcome to my GitHub profile:
 
-![Alt text](image-1.png)
+<div style="width:100%;height:0;padding-bottom:92%;position:relative;"><iframe src="https://giphy.com/embed/jeCSe7Qqc7NwKUzxH7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/chill-relax-chilling-jeCSe7Qqc7NwKUzxH7">via GIPHY</a></p>
 
 [![GitHub followers](https://img.shields.io/github/followers/Khixinhxan?label=Follow&style=social)](https://github.com/Khixinhxan?tab=follow)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hoaidangnguyen97/)](https://www.linkedin.com/in/hoaidangnguyen97/)
