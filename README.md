@@ -46,7 +46,7 @@ Data Engineer
 
 🌈 [Part-time] Working as a teaching assistant for everyone starting with the data industry.
 
-💎 [Freelance] Research and develop to solve special requirements around data on adaptive technology.
+💎 [Freelance] Research and develop, build solutions, applications to solve special requirements around data on adaptive technology.
 
 ⚡️ [Free-time] 
 
