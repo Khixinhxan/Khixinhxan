@@ -27,7 +27,7 @@
 
 🌦 [My journey]: 
 
---> Data Engineer 
+-> Data Engineer 
 
 -> Data Analyst 
 
@@ -35,9 +35,9 @@
 
 -> Business Intelligence 
 
--> Data Analyst
+-> Data Analytics Engineer
 
--> Now: Senior Data Scientist/AI Engineer
+---> Now: Senior Data Scientist/AI Engineer
 
 
 <br>
