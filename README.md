@@ -27,7 +27,7 @@
 
 🌦 [My journey]: 
 
-Data Engineer 
+--> Data Engineer 
 
 -> Data Analyst 
 
@@ -35,14 +35,16 @@ Data Engineer
 
 -> Business Intelligence 
 
--> Data Analyst (now)
+-> Data Analyst
+
+-> Now: Senior Data Scientist/AI Engineer
 
 
 <br>
 
 **Ovewview:**
 
-🔥 [Full-time] I'm Data Analyst in the Logistics industry.
+🔥 [Full-time] I'm Data Player in the Logistics/Ride Haidling industry.
 
 🌈 [Part-time] Working as a teaching assistant for everyone starting with the data industry.
 
